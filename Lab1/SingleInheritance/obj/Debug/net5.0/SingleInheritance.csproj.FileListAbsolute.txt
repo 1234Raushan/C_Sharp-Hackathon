@@ -1,0 +1,16 @@
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\SingleInheritance\bin\Debug\net5.0\SingleInheritance.exe
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\SingleInheritance\bin\Debug\net5.0\SingleInheritance.deps.json
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\SingleInheritance\bin\Debug\net5.0\SingleInheritance.runtimeconfig.json
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\SingleInheritance\bin\Debug\net5.0\SingleInheritance.runtimeconfig.dev.json
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\SingleInheritance\bin\Debug\net5.0\SingleInheritance.dll
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\SingleInheritance\bin\Debug\net5.0\SingleInheritance.pdb
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\SingleInheritance\obj\Debug\net5.0\SingleInheritance.csproj.AssemblyReference.cache
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\SingleInheritance\obj\Debug\net5.0\SingleInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\SingleInheritance\obj\Debug\net5.0\SingleInheritance.AssemblyInfoInputs.cache
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\SingleInheritance\obj\Debug\net5.0\SingleInheritance.AssemblyInfo.cs
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\SingleInheritance\obj\Debug\net5.0\SingleInheritance.csproj.CoreCompileInputs.cache
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\SingleInheritance\obj\Debug\net5.0\SingleInheritance.dll
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\SingleInheritance\obj\Debug\net5.0\refint\SingleInheritance.dll
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\SingleInheritance\obj\Debug\net5.0\SingleInheritance.pdb
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\SingleInheritance\obj\Debug\net5.0\SingleInheritance.genruntimeconfig.cache
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\SingleInheritance\obj\Debug\net5.0\ref\SingleInheritance.dll

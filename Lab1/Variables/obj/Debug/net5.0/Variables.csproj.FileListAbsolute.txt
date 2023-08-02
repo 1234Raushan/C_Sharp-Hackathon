@@ -1,0 +1,16 @@
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\Variables\bin\Debug\net5.0\Variables.exe
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\Variables\bin\Debug\net5.0\Variables.deps.json
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\Variables\bin\Debug\net5.0\Variables.runtimeconfig.json
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\Variables\bin\Debug\net5.0\Variables.runtimeconfig.dev.json
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\Variables\bin\Debug\net5.0\Variables.dll
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\Variables\bin\Debug\net5.0\Variables.pdb
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\Variables\obj\Debug\net5.0\Variables.csproj.AssemblyReference.cache
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\Variables\obj\Debug\net5.0\Variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\Variables\obj\Debug\net5.0\Variables.AssemblyInfoInputs.cache
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\Variables\obj\Debug\net5.0\Variables.AssemblyInfo.cs
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\Variables\obj\Debug\net5.0\Variables.csproj.CoreCompileInputs.cache
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\Variables\obj\Debug\net5.0\Variables.dll
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\Variables\obj\Debug\net5.0\refint\Variables.dll
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\Variables\obj\Debug\net5.0\Variables.pdb
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\Variables\obj\Debug\net5.0\Variables.genruntimeconfig.cache
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\Variables\obj\Debug\net5.0\ref\Variables.dll
