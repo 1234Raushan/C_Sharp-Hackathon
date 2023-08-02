@@ -25,6 +25,7 @@ namespace SingleInheritance2
             dog.eat();
             dog.bark();
             Console.WriteLine("Hello World!");
+
         }
     }
 }
