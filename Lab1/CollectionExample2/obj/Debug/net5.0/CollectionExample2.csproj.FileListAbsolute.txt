@@ -1,0 +1,16 @@
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\CollectionExample2\bin\Debug\net5.0\CollectionExample2.exe
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\CollectionExample2\bin\Debug\net5.0\CollectionExample2.deps.json
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\CollectionExample2\bin\Debug\net5.0\CollectionExample2.runtimeconfig.json
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\CollectionExample2\bin\Debug\net5.0\CollectionExample2.runtimeconfig.dev.json
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\CollectionExample2\bin\Debug\net5.0\CollectionExample2.dll
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\CollectionExample2\bin\Debug\net5.0\CollectionExample2.pdb
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\CollectionExample2\obj\Debug\net5.0\CollectionExample2.csproj.AssemblyReference.cache
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\CollectionExample2\obj\Debug\net5.0\CollectionExample2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\CollectionExample2\obj\Debug\net5.0\CollectionExample2.AssemblyInfoInputs.cache
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\CollectionExample2\obj\Debug\net5.0\CollectionExample2.AssemblyInfo.cs
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\CollectionExample2\obj\Debug\net5.0\CollectionExample2.csproj.CoreCompileInputs.cache
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\CollectionExample2\obj\Debug\net5.0\CollectionExample2.dll
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\CollectionExample2\obj\Debug\net5.0\refint\CollectionExample2.dll
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\CollectionExample2\obj\Debug\net5.0\CollectionExample2.pdb
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\CollectionExample2\obj\Debug\net5.0\CollectionExample2.genruntimeconfig.cache
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\CollectionExample2\obj\Debug\net5.0\ref\CollectionExample2.dll

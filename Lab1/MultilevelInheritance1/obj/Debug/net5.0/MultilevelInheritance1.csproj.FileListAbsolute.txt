@@ -1,0 +1,16 @@
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\MultilevelInheritance1\bin\Debug\net5.0\MultilevelInheritance1.exe
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\MultilevelInheritance1\bin\Debug\net5.0\MultilevelInheritance1.deps.json
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\MultilevelInheritance1\bin\Debug\net5.0\MultilevelInheritance1.runtimeconfig.json
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\MultilevelInheritance1\bin\Debug\net5.0\MultilevelInheritance1.runtimeconfig.dev.json
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\MultilevelInheritance1\bin\Debug\net5.0\MultilevelInheritance1.dll
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\MultilevelInheritance1\bin\Debug\net5.0\MultilevelInheritance1.pdb
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\MultilevelInheritance1\obj\Debug\net5.0\MultilevelInheritance1.csproj.AssemblyReference.cache
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\MultilevelInheritance1\obj\Debug\net5.0\MultilevelInheritance1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\MultilevelInheritance1\obj\Debug\net5.0\MultilevelInheritance1.AssemblyInfoInputs.cache
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\MultilevelInheritance1\obj\Debug\net5.0\MultilevelInheritance1.AssemblyInfo.cs
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\MultilevelInheritance1\obj\Debug\net5.0\MultilevelInheritance1.csproj.CoreCompileInputs.cache
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\MultilevelInheritance1\obj\Debug\net5.0\MultilevelInheritance1.dll
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\MultilevelInheritance1\obj\Debug\net5.0\refint\MultilevelInheritance1.dll
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\MultilevelInheritance1\obj\Debug\net5.0\MultilevelInheritance1.pdb
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\MultilevelInheritance1\obj\Debug\net5.0\MultilevelInheritance1.genruntimeconfig.cache
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\MultilevelInheritance1\obj\Debug\net5.0\ref\MultilevelInheritance1.dll

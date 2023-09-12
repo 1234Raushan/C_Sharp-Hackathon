@@ -1,0 +1,16 @@
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\GenericListExample1\bin\Debug\net5.0\GenericListExample1.exe
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\GenericListExample1\bin\Debug\net5.0\GenericListExample1.deps.json
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\GenericListExample1\bin\Debug\net5.0\GenericListExample1.runtimeconfig.json
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\GenericListExample1\bin\Debug\net5.0\GenericListExample1.runtimeconfig.dev.json
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\GenericListExample1\bin\Debug\net5.0\GenericListExample1.dll
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\GenericListExample1\bin\Debug\net5.0\GenericListExample1.pdb
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\GenericListExample1\obj\Debug\net5.0\GenericListExample1.csproj.AssemblyReference.cache
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\GenericListExample1\obj\Debug\net5.0\GenericListExample1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\GenericListExample1\obj\Debug\net5.0\GenericListExample1.AssemblyInfoInputs.cache
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\GenericListExample1\obj\Debug\net5.0\GenericListExample1.AssemblyInfo.cs
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\GenericListExample1\obj\Debug\net5.0\GenericListExample1.csproj.CoreCompileInputs.cache
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\GenericListExample1\obj\Debug\net5.0\GenericListExample1.dll
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\GenericListExample1\obj\Debug\net5.0\refint\GenericListExample1.dll
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\GenericListExample1\obj\Debug\net5.0\GenericListExample1.pdb
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\GenericListExample1\obj\Debug\net5.0\GenericListExample1.genruntimeconfig.cache
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\GenericListExample1\obj\Debug\net5.0\ref\GenericListExample1.dll

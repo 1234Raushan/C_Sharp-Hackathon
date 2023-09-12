@@ -1,0 +1,16 @@
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\ConstructorLab1\bin\Debug\net5.0\ConstructorLab1.exe
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\ConstructorLab1\bin\Debug\net5.0\ConstructorLab1.deps.json
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\ConstructorLab1\bin\Debug\net5.0\ConstructorLab1.runtimeconfig.json
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\ConstructorLab1\bin\Debug\net5.0\ConstructorLab1.runtimeconfig.dev.json
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\ConstructorLab1\bin\Debug\net5.0\ConstructorLab1.dll
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\ConstructorLab1\bin\Debug\net5.0\ConstructorLab1.pdb
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\ConstructorLab1\obj\Debug\net5.0\ConstructorLab1.csproj.AssemblyReference.cache
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\ConstructorLab1\obj\Debug\net5.0\ConstructorLab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\ConstructorLab1\obj\Debug\net5.0\ConstructorLab1.AssemblyInfoInputs.cache
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\ConstructorLab1\obj\Debug\net5.0\ConstructorLab1.AssemblyInfo.cs
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\ConstructorLab1\obj\Debug\net5.0\ConstructorLab1.csproj.CoreCompileInputs.cache
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\ConstructorLab1\obj\Debug\net5.0\ConstructorLab1.dll
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\ConstructorLab1\obj\Debug\net5.0\refint\ConstructorLab1.dll
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\ConstructorLab1\obj\Debug\net5.0\ConstructorLab1.pdb
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\ConstructorLab1\obj\Debug\net5.0\ConstructorLab1.genruntimeconfig.cache
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\ConstructorLab1\obj\Debug\net5.0\ref\ConstructorLab1.dll

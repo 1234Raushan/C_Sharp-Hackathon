@@ -1,0 +1,16 @@
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\DefaultConstucror\bin\Debug\net5.0\DefaultConstucror.exe
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\DefaultConstucror\bin\Debug\net5.0\DefaultConstucror.deps.json
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\DefaultConstucror\bin\Debug\net5.0\DefaultConstucror.runtimeconfig.json
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\DefaultConstucror\bin\Debug\net5.0\DefaultConstucror.runtimeconfig.dev.json
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\DefaultConstucror\bin\Debug\net5.0\DefaultConstucror.dll
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\DefaultConstucror\bin\Debug\net5.0\DefaultConstucror.pdb
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\DefaultConstucror\obj\Debug\net5.0\DefaultConstucror.csproj.AssemblyReference.cache
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\DefaultConstucror\obj\Debug\net5.0\DefaultConstucror.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\DefaultConstucror\obj\Debug\net5.0\DefaultConstucror.AssemblyInfoInputs.cache
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\DefaultConstucror\obj\Debug\net5.0\DefaultConstucror.AssemblyInfo.cs
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\DefaultConstucror\obj\Debug\net5.0\DefaultConstucror.csproj.CoreCompileInputs.cache
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\DefaultConstucror\obj\Debug\net5.0\DefaultConstucror.dll
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\DefaultConstucror\obj\Debug\net5.0\refint\DefaultConstucror.dll
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\DefaultConstucror\obj\Debug\net5.0\DefaultConstucror.pdb
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\DefaultConstucror\obj\Debug\net5.0\DefaultConstucror.genruntimeconfig.cache
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\DefaultConstucror\obj\Debug\net5.0\ref\DefaultConstucror.dll

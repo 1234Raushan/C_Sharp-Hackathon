@@ -1,0 +1,16 @@
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\ConstvsReadonly1\bin\Debug\net5.0\ConstvsReadonly1.exe
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\ConstvsReadonly1\bin\Debug\net5.0\ConstvsReadonly1.deps.json
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\ConstvsReadonly1\bin\Debug\net5.0\ConstvsReadonly1.runtimeconfig.json
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\ConstvsReadonly1\bin\Debug\net5.0\ConstvsReadonly1.runtimeconfig.dev.json
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\ConstvsReadonly1\bin\Debug\net5.0\ConstvsReadonly1.dll
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\ConstvsReadonly1\bin\Debug\net5.0\ConstvsReadonly1.pdb
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\ConstvsReadonly1\obj\Debug\net5.0\ConstvsReadonly1.csproj.AssemblyReference.cache
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\ConstvsReadonly1\obj\Debug\net5.0\ConstvsReadonly1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\ConstvsReadonly1\obj\Debug\net5.0\ConstvsReadonly1.AssemblyInfoInputs.cache
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\ConstvsReadonly1\obj\Debug\net5.0\ConstvsReadonly1.AssemblyInfo.cs
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\ConstvsReadonly1\obj\Debug\net5.0\ConstvsReadonly1.csproj.CoreCompileInputs.cache
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\ConstvsReadonly1\obj\Debug\net5.0\ConstvsReadonly1.dll
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\ConstvsReadonly1\obj\Debug\net5.0\refint\ConstvsReadonly1.dll
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\ConstvsReadonly1\obj\Debug\net5.0\ConstvsReadonly1.pdb
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\ConstvsReadonly1\obj\Debug\net5.0\ConstvsReadonly1.genruntimeconfig.cache
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\ConstvsReadonly1\obj\Debug\net5.0\ref\ConstvsReadonly1.dll
