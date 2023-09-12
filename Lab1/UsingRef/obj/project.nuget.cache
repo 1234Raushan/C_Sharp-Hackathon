@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "WovMUfboeSO7du5pR65YI2LXfKOO9JEVmgs/QzZPduNChJDubeVU623vAcFoqQkTSKCD7wXJOAtgWciM4fuSjQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rmanjhi\\Documents\\GitHub\\C_Sharp-Hackathon\\Lab1\\UsingRef\\UsingRef.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\rmanjhi\\Documents\\GitHub\\C_Sharp-Hackathon\\Lab1\\UsingRef\\obj\\project.nuget.cache : Found invalid data while decoding."
+    }
+  ]
+}

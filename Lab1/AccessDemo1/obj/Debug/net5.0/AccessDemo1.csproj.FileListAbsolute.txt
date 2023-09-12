@@ -1,0 +1,16 @@
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\AccessDemo1\bin\Debug\net5.0\AccessDemo1.exe
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\AccessDemo1\bin\Debug\net5.0\AccessDemo1.deps.json
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\AccessDemo1\bin\Debug\net5.0\AccessDemo1.runtimeconfig.json
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\AccessDemo1\bin\Debug\net5.0\AccessDemo1.runtimeconfig.dev.json
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\AccessDemo1\bin\Debug\net5.0\AccessDemo1.dll
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\AccessDemo1\bin\Debug\net5.0\AccessDemo1.pdb
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\AccessDemo1\obj\Debug\net5.0\AccessDemo1.csproj.AssemblyReference.cache
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\AccessDemo1\obj\Debug\net5.0\AccessDemo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\AccessDemo1\obj\Debug\net5.0\AccessDemo1.AssemblyInfoInputs.cache
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\AccessDemo1\obj\Debug\net5.0\AccessDemo1.AssemblyInfo.cs
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\AccessDemo1\obj\Debug\net5.0\AccessDemo1.csproj.CoreCompileInputs.cache
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\AccessDemo1\obj\Debug\net5.0\AccessDemo1.dll
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\AccessDemo1\obj\Debug\net5.0\refint\AccessDemo1.dll
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\AccessDemo1\obj\Debug\net5.0\AccessDemo1.pdb
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\AccessDemo1\obj\Debug\net5.0\AccessDemo1.genruntimeconfig.cache
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\AccessDemo1\obj\Debug\net5.0\ref\AccessDemo1.dll

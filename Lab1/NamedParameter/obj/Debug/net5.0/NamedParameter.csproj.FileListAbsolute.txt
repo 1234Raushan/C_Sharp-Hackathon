@@ -1,0 +1,16 @@
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\NamedParameter\bin\Debug\net5.0\NamedParameter.exe
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\NamedParameter\bin\Debug\net5.0\NamedParameter.deps.json
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\NamedParameter\bin\Debug\net5.0\NamedParameter.runtimeconfig.json
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\NamedParameter\bin\Debug\net5.0\NamedParameter.runtimeconfig.dev.json
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\NamedParameter\bin\Debug\net5.0\NamedParameter.dll
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\NamedParameter\bin\Debug\net5.0\NamedParameter.pdb
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\NamedParameter\obj\Debug\net5.0\NamedParameter.csproj.AssemblyReference.cache
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\NamedParameter\obj\Debug\net5.0\NamedParameter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\NamedParameter\obj\Debug\net5.0\NamedParameter.AssemblyInfoInputs.cache
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\NamedParameter\obj\Debug\net5.0\NamedParameter.AssemblyInfo.cs
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\NamedParameter\obj\Debug\net5.0\NamedParameter.csproj.CoreCompileInputs.cache
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\NamedParameter\obj\Debug\net5.0\NamedParameter.dll
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\NamedParameter\obj\Debug\net5.0\refint\NamedParameter.dll
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\NamedParameter\obj\Debug\net5.0\NamedParameter.pdb
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\NamedParameter\obj\Debug\net5.0\NamedParameter.genruntimeconfig.cache
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\NamedParameter\obj\Debug\net5.0\ref\NamedParameter.dll

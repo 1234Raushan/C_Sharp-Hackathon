@@ -1,0 +1,16 @@
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\NamedParameterDemo2\bin\Debug\net5.0\NamedParameterDemo2.exe
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\NamedParameterDemo2\bin\Debug\net5.0\NamedParameterDemo2.deps.json
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\NamedParameterDemo2\bin\Debug\net5.0\NamedParameterDemo2.runtimeconfig.json
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\NamedParameterDemo2\bin\Debug\net5.0\NamedParameterDemo2.runtimeconfig.dev.json
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\NamedParameterDemo2\bin\Debug\net5.0\NamedParameterDemo2.dll
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\NamedParameterDemo2\bin\Debug\net5.0\NamedParameterDemo2.pdb
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\NamedParameterDemo2\obj\Debug\net5.0\NamedParameterDemo2.csproj.AssemblyReference.cache
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\NamedParameterDemo2\obj\Debug\net5.0\NamedParameterDemo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\NamedParameterDemo2\obj\Debug\net5.0\NamedParameterDemo2.AssemblyInfoInputs.cache
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\NamedParameterDemo2\obj\Debug\net5.0\NamedParameterDemo2.AssemblyInfo.cs
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\NamedParameterDemo2\obj\Debug\net5.0\NamedParameterDemo2.csproj.CoreCompileInputs.cache
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\NamedParameterDemo2\obj\Debug\net5.0\NamedParameterDemo2.dll
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\NamedParameterDemo2\obj\Debug\net5.0\refint\NamedParameterDemo2.dll
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\NamedParameterDemo2\obj\Debug\net5.0\NamedParameterDemo2.pdb
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\NamedParameterDemo2\obj\Debug\net5.0\NamedParameterDemo2.genruntimeconfig.cache
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\NamedParameterDemo2\obj\Debug\net5.0\ref\NamedParameterDemo2.dll

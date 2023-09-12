@@ -1,0 +1,5 @@
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\UsingRef\obj\Debug\net5.0\UsingRef.csproj.AssemblyReference.cache
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\UsingRef\obj\Debug\net5.0\UsingRef.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\UsingRef\obj\Debug\net5.0\UsingRef.AssemblyInfoInputs.cache
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\UsingRef\obj\Debug\net5.0\UsingRef.AssemblyInfo.cs
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\UsingRef\obj\Debug\net5.0\UsingRef.csproj.CoreCompileInputs.cache

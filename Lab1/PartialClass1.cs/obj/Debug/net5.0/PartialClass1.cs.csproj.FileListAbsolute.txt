@@ -1,0 +1,5 @@
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\PartialClass1.cs\obj\Debug\net5.0\PartialClass1.cs.csproj.AssemblyReference.cache
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\PartialClass1.cs\obj\Debug\net5.0\PartialClass1.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\PartialClass1.cs\obj\Debug\net5.0\PartialClass1.cs.AssemblyInfoInputs.cache
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\PartialClass1.cs\obj\Debug\net5.0\PartialClass1.cs.AssemblyInfo.cs
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\PartialClass1.cs\obj\Debug\net5.0\PartialClass1.cs.csproj.CoreCompileInputs.cache

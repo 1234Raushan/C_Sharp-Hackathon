@@ -1,0 +1,16 @@
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\SingleInheritance2\bin\Debug\net5.0\SingleInheritance2.exe
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\SingleInheritance2\bin\Debug\net5.0\SingleInheritance2.deps.json
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\SingleInheritance2\bin\Debug\net5.0\SingleInheritance2.runtimeconfig.json
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\SingleInheritance2\bin\Debug\net5.0\SingleInheritance2.runtimeconfig.dev.json
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\SingleInheritance2\bin\Debug\net5.0\SingleInheritance2.dll
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\SingleInheritance2\bin\Debug\net5.0\SingleInheritance2.pdb
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\SingleInheritance2\obj\Debug\net5.0\SingleInheritance2.csproj.AssemblyReference.cache
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\SingleInheritance2\obj\Debug\net5.0\SingleInheritance2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\SingleInheritance2\obj\Debug\net5.0\SingleInheritance2.AssemblyInfoInputs.cache
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\SingleInheritance2\obj\Debug\net5.0\SingleInheritance2.AssemblyInfo.cs
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\SingleInheritance2\obj\Debug\net5.0\SingleInheritance2.csproj.CoreCompileInputs.cache
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\SingleInheritance2\obj\Debug\net5.0\SingleInheritance2.dll
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\SingleInheritance2\obj\Debug\net5.0\refint\SingleInheritance2.dll
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\SingleInheritance2\obj\Debug\net5.0\SingleInheritance2.pdb
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\SingleInheritance2\obj\Debug\net5.0\SingleInheritance2.genruntimeconfig.cache
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\SingleInheritance2\obj\Debug\net5.0\ref\SingleInheritance2.dll

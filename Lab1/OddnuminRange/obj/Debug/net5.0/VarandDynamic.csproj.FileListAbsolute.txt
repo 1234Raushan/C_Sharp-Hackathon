@@ -1,0 +1,16 @@
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\OddnuminRange\bin\Debug\net5.0\VarandDynamic.exe
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\OddnuminRange\bin\Debug\net5.0\VarandDynamic.deps.json
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\OddnuminRange\bin\Debug\net5.0\VarandDynamic.runtimeconfig.json
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\OddnuminRange\bin\Debug\net5.0\VarandDynamic.runtimeconfig.dev.json
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\OddnuminRange\bin\Debug\net5.0\VarandDynamic.dll
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\OddnuminRange\bin\Debug\net5.0\VarandDynamic.pdb
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\OddnuminRange\obj\Debug\net5.0\VarandDynamic.csproj.AssemblyReference.cache
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\OddnuminRange\obj\Debug\net5.0\VarandDynamic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\OddnuminRange\obj\Debug\net5.0\VarandDynamic.AssemblyInfoInputs.cache
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\OddnuminRange\obj\Debug\net5.0\VarandDynamic.AssemblyInfo.cs
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\OddnuminRange\obj\Debug\net5.0\VarandDynamic.csproj.CoreCompileInputs.cache
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\OddnuminRange\obj\Debug\net5.0\VarandDynamic.dll
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\OddnuminRange\obj\Debug\net5.0\refint\VarandDynamic.dll
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\OddnuminRange\obj\Debug\net5.0\VarandDynamic.pdb
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\OddnuminRange\obj\Debug\net5.0\VarandDynamic.genruntimeconfig.cache
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\OddnuminRange\obj\Debug\net5.0\ref\VarandDynamic.dll

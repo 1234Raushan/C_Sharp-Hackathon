@@ -1,0 +1,16 @@
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\NamedAndSimple\bin\Debug\net5.0\NamedAndSimple.exe
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\NamedAndSimple\bin\Debug\net5.0\NamedAndSimple.deps.json
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\NamedAndSimple\bin\Debug\net5.0\NamedAndSimple.runtimeconfig.json
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\NamedAndSimple\bin\Debug\net5.0\NamedAndSimple.runtimeconfig.dev.json
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\NamedAndSimple\bin\Debug\net5.0\NamedAndSimple.dll
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\NamedAndSimple\bin\Debug\net5.0\NamedAndSimple.pdb
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\NamedAndSimple\obj\Debug\net5.0\NamedAndSimple.csproj.AssemblyReference.cache
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\NamedAndSimple\obj\Debug\net5.0\NamedAndSimple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\NamedAndSimple\obj\Debug\net5.0\NamedAndSimple.AssemblyInfoInputs.cache
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\NamedAndSimple\obj\Debug\net5.0\NamedAndSimple.AssemblyInfo.cs
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\NamedAndSimple\obj\Debug\net5.0\NamedAndSimple.csproj.CoreCompileInputs.cache
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\NamedAndSimple\obj\Debug\net5.0\NamedAndSimple.dll
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\NamedAndSimple\obj\Debug\net5.0\refint\NamedAndSimple.dll
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\NamedAndSimple\obj\Debug\net5.0\NamedAndSimple.pdb
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\NamedAndSimple\obj\Debug\net5.0\NamedAndSimple.genruntimeconfig.cache
+C:\Users\rmanjhi\Documents\GitHub\C_Sharp-Hackathon\Lab1\NamedAndSimple\obj\Debug\net5.0\ref\NamedAndSimple.dll
