@@ -1,0 +1,33 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+    <h4>1. @ViewData["FirstValue"]</h4>
+    <h4>2. @ViewData["SecondValue"]</h4>
+    <h4>3. @ViewData["ThirdValue"]</h4>
+</div>
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewData["Title"]</title>
+</head>
+<body>
+    <h1>@ViewData["Header"]</h1>
+
+    @{
+        var student = ViewData["Student"] as EmployeeApp.Models.Employee1;
+    }
+
+    <div>
+        MyProperty : @student.MyProperty
+    </div>
+    <div>
+        Name : @student.Name
+    </div>
+</body>
+</html>
